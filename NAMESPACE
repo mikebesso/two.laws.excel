@@ -2,4 +2,6 @@
 
 export(ExportDataFrameToExcel)
 export(ExportDataFramesToExcel)
-export(ImportDataFramesFromExcel)
+export(ImportDataFrameFromExcelWorkbook)
+export(ImportDataFramesFromExcelWorkbook)
+export(ImportDataFramesFromExcelWorkbooks)
